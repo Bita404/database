@@ -1,1 +1,1 @@
-# Simple Basic commands for SQL 
+#Basic commands for SQL 
